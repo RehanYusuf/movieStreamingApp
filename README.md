@@ -3,8 +3,13 @@
  - create React App
  - config Tailwindcss
  
- -Header
- -Login Form(Sign-in/Sign-up)
+ - Header
+ - Login Form(Sign-in/Sign-up)
+ - Form Validation
+ - Authentication using Firebase
+ - Deploy the Project using Firebase
+ - Create Signup User Account and Signin
+ - Created Redux Store
 
  # Features
 
